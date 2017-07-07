@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open SEO Blog</title>
+    <link>https://www.open-seo.org/blog/</link>
+    <description>Recent content on Open SEO Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.open-seo.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About this Blog</title>
+      <link>https://www.open-seo.org/blog/2017/07/about-this-blog/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.open-seo.org/blog/2017/07/about-this-blog/</guid>
+      <description>Open SEO Blog Open SEO started as an open source tool for quick SEO and webpage analysis. This blog is intended to extend the website by adding valuable resources and information for marketing professionals, programmers, and anyone who has to understand the acronym SEO.
+The blog is built using hugo. We accept submissions for SEO related topics, especially those featuring open source software.
+Running the blog local  Download or fork this github repo.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.open-seo.org/blog/contact/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.open-seo.org/blog/contact/</guid>
+      <description>Your name *  Your email *  Your message for me *       </description>
+    </item>
+    
+  </channel>
+</rss>
